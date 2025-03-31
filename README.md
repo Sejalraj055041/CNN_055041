@@ -1,4 +1,4 @@
-MNIST Handwritten Digit Recognizer using Deep CNN
+###MNIST Handwritten Digit Recognizer using Deep CNN###
 Contributors
 Sejal Raj (055041)
 Vidushi Rawat (055056)
